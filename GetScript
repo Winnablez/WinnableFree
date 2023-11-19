@@ -3,7 +3,7 @@ local Script = {
 }
 AddOn = {
     ["AimbotBloxFruit"] = "https://raw.githubusercontent.com/Winnablez/ScriptTrash/main/AimbotBloxFruit",
-    ["PvPBloxFruitMB"] = "https://raw.githubusercontent.com/Winnablez/ScriptTrash/main/addon_mb_pvp"
+    ["PvPBloxFruitMB"] = "https://raw.githubusercontent.com/Winnablez/WinnableFree/main/PvPBloxFruitMB"
 }
 
 return Script,Addon
